@@ -1,16 +1,17 @@
-## Hi there 👋
+## 📜 Certifications
 
-<!--
-**ajithvidyadharan/ajithvidyadharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **[Python: Beginner to Advanced For Data Professionals](https://codebasics.io/certificate/CB-48-508946)**  
+  *Codebasics* — *Issued Jun 2025*  
+  Credential ID: CB-48-508946
 
-Here are some ideas to get you started:
+- **[SQL Beginner to Advanced For Data Professionals](https://codebasics.io/certificate/CB-50-508946)**  
+  *Codebasics* — *Issued Apr 2025*  
+  Credential ID: CB-50-508946
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Get Job Ready: Power BI Data Analytics for All Levels 3.0](https://codebasics.io/certificate/CB-49-508946)**  
+  *Codebasics* — *Issued Mar 2025*  
+  Credential ID: CB-49-508946
+
+- **[Excel: Mother of Business Intelligence](https://codebasics.io/certificate/CB-51-508946)**  
+  *Codebasics* — *Issued Jan 2025*  
+  Credential ID: CB-51-508946
